@@ -30,7 +30,7 @@ Certifications & Professional Values
 
 Let's Connect!
 I am ready to bring my cloud skills to a team that is changing the world through science and software.
-    * LinkedIn: www.Linkedin.com/shaoxuan
+    * LinkedIn: www.Linkedin.com/in/shaoxuan
     * GitHub: www.github.com/xuanshao1980-aws
     * Email: xuanshao@icloud.com
 
