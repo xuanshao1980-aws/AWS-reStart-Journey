@@ -11,3 +11,4 @@ Topics covered
 
 https://github.com/xuanshao1980-aws/AWS-reStart-Journey/blob/7eeb458b21503838be9e2c8d19429aa70d883dd9/Labs/Compute/Screenshot%202026-03-15%20at%2011.13.51.png
 
+Launching an Amazon EC2 instance means creating a virtual server in the Amazon Web Services cloud so you can run applications. The process involves choosing an Amazon Machine Image (AMI) that defines the operating system and software, selecting an instance type that determines CPU, memory, and networking capacity, configuring storage (such as Amazon Elastic Block Store), setting security rules through security groups, and optionally assigning a key pair for secure access. Once launched, the EC2 instance becomes a running compute resource that you can connect to, manage, and scale as needed.
