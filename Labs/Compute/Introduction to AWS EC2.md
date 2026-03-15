@@ -8,4 +8,6 @@ Topics covered
 - Monitor Your EC2 instance
 - Modify the security group that your web server is using to allow HTTP access
 
-Screenshot 2026-03-15 at 11.13.51.png
+
+https://github.com/xuanshao1980-aws/AWS-reStart-Journey/blob/7eeb458b21503838be9e2c8d19429aa70d883dd9/Labs/Compute/Screenshot%202026-03-15%20at%2011.13.51.png
+
